@@ -1,4 +1,4 @@
-telethon==1.29.3
+telethon==1.35.0
 telethon-tgcrypto
 hachoir
 pyquery
